@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../New_Project/img/Preto.avif);
+    background-color: aquamarine;
+    text-align: center;
+}
+
+p {
+    color: antiquewhite;
+}
+
+a {
+    color: antiquewhite;
+}
+
+.titulo {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 2px;
+}
+
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-image {
+    background-image: url(../New_Project/img/Coloridas.jpg);
+    color: antiquewhite;
+}
